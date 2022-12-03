@@ -1,8 +1,20 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using Cource.Application;
+using Cource.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 
-// Add services to the container.
+var builder = WebApplication.CreateBuilder(args);
+IConfiguration configuration = new ConfigurationBuilder()
+                            .AddJsonFile("appsettings.json")
+                            .Build();
+
+builder.Services.AddDbContext<AcademicDBContext>(options => options.UseSqlServer(
+       configuration["ConnectionStrings:DefaultConnection"], (obj) => obj.MigrationsAssembly("CourseMS"))
+
+);
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IAcademicCourceService, AcademicCourceService>();
+builder.Services.AddScoped<IAcademicCourceRepository, AcademicCourceRepository>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

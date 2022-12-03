@@ -1,0 +1,15 @@
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/bin/Debug/net6.0/Cource.Application.deps.json
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/bin/Debug/net6.0/Cource.Application.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/bin/Debug/net6.0/Cource.Application.pdb
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/bin/Debug/net6.0/Cource.Domain.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/bin/Debug/net6.0/Cource.Domain.pdb
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.csproj.AssemblyReference.cache
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.AssemblyInfoInputs.cache
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.AssemblyInfo.cs
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.csproj.CoreCompileInputs.cache
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.csproj.CopyComplete
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/refint/Cource.Application.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/Cource.Application.pdb
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Application/obj/Debug/net6.0/ref/Cource.Application.dll

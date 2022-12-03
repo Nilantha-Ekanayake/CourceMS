@@ -1,0 +1,12 @@
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/bin/Debug/net6.0/Cource.Domain.deps.json
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/bin/Debug/net6.0/Cource.Domain.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/bin/Debug/net6.0/Cource.Domain.pdb
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.csproj.AssemblyReference.cache
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.AssemblyInfoInputs.cache
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.AssemblyInfo.cs
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/refint/Cource.Domain.dll
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/Cource.Domain.pdb
+/Users/mac/Nilantha/Development/Learning/cSharp/WebApi/UnivercityMS/CourceMS/CourseMS/Cource.Domain/obj/Debug/net6.0/ref/Cource.Domain.dll
